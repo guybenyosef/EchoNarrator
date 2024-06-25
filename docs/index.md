@@ -22,10 +22,8 @@ If you find the work interesting, please cite it:
 
 Citation: 
 
-S. Thomas, Q. Cao, Daria K., Anna N., and G. Ben-Yosef, “Generating natural text explanations for ejection fraction predictions”, International Conference on Medical Image Computing and Computer-Assisted 
-Intervention. Springer, Cham, 2024.
-
-
+[//]:S. Thomas, Q. Cao, Daria K., Anna N., and G. Ben-Yosef, “Generating natural text explanations for ejection fraction predictions”,
+International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2024.
 
 
 [//]: # (## Supplementary Materials)
@@ -41,7 +39,7 @@ resources available.
 
 # Code
 
-The code is available [on GitHub](https://github.com/guybenyosef/EchoNarrator)
+[//]:The code is available [on GitHub](https://github.com/guybenyosef/EchoNarrator)
 
 
 ## Authors
