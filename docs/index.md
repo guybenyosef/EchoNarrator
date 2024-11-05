@@ -5,13 +5,13 @@ layout: default
 # Abstract
 
 #### Motivation
-
+The EchoNarrator project aims to bridge the gap between automated EF prediction and clinician interpretability. By providing natural language explanations for echocardiography insights, EchoNarrator enhances trust and transparency, supporting clinicians in making informed decisions.
 
 #### Summary 
+EchoNarrator combines a Graph Convolutional Network (GCN) for EF prediction with a Large Language Model (LLM) to generate human-readable explanations. This integration produces accurate EF estimates alongside clear, text-based explanations for better clinical understanding of model predcitions.
 
-
-####  Results
-
+#### Results
+Our model achieves robust EF predictions with high accuracy and clinically relevant natural language explanations. Evaluations demonstrate improved interpretability and alignment with clinical expectations, highlighting EchoNarrator’s potential for real-world applications.
 
 ## Article
 
@@ -22,8 +22,8 @@ If you find the work interesting, please cite it:
 
 Citation: 
 
-[//]:S. Thomas, Q. Cao, Daria K., Anna N., and G. Ben-Yosef, “Generating natural text explanations for ejection fraction predictions”,
-International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2024.
+S. Thomas, Q. Cao, Daria K., Anna N., and G. Ben-Yosef, “Generating natural text explanations for ejection fraction predictions”,
+International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). Springer, Cham, 2024.
 
 
 [//]: # (## Supplementary Materials)
@@ -39,7 +39,7 @@ resources available.
 
 # Code
 
-[//]:The code is available [on GitHub](https://github.com/guybenyosef/EchoNarrator)
+The code is available [on GitHub](https://github.com/guybenyosef/EchoNarrator)
 
 
 ## Authors
@@ -56,4 +56,4 @@ Anna Novikova<sup>2</sup> and Guy Ben-Yosef<sup>4,*</sup>
 
 4: GE HealthCare Technology and Innovation Center, Niskayuna, New York, USA
 
-*: Corresponding author: guy.ben-yosef@ge-healthcare.com
+*: Corresponding author: guy.ben-yosef@gehealthcare.com
